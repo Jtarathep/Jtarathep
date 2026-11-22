@@ -1,70 +1,53 @@
-# Hi, I'm Tarathep 👋
+# สวัสดีครับ ผมธราเทพ 👋
 
-**Student Developer · Web, Mobile & AI Projects**  
-**นักศึกษาที่กำลังพัฒนาทักษะด้านซอฟต์แวร์ · เหลืออีก 1 ภาคการศึกษา**
+ตอนนี้ผมยังเรียนอยู่ เหลืออีก 1 เทอมครับ ที่นี่ผมรวมโปรเจกต์ที่ได้ลองทำระหว่างเรียน ตั้งแต่ระบบขายหน้าร้านกับแอปวิ่ง ไปจนถึงเว็บร้านกาแฟและต้นแบบช่วยจัดสเปกคอม
 
-I'm **Tarathep Punyakong** ([@Jtarathep](https://github.com/Jtarathep)), a student with **one semester remaining**. This portfolio brings together projects I've worked on while learning software development, from inventory systems and mobile apps to web interfaces and an AI recommendation prototype.
+Hi, I’m **Tarathep Punyakong**. I’m a student with one semester left. Here are a few things I’ve worked on while learning to build websites, mobile apps, and other software.
 
-สวัสดีครับ ผม **Tarathep Punyakong** ปัจจุบันยังเป็นนักศึกษาและเหลืออีก **1 ภาคการศึกษา** ก่อนจบการศึกษา พื้นที่นี้รวบรวมโปรเจกต์ที่ผมได้ทำระหว่างเรียนรู้การพัฒนาซอฟต์แวร์ ทั้งระบบคลังสินค้า แอปมือถือ เว็บไซต์ และต้นแบบระบบแนะนำด้วย AI
+## โปรเจกต์ที่เคยทำ · Projects
 
-## Selected Projects · ผลงานที่เลือกมาแสดง
+### [KongKlang — ระบบสต็อกและขายหน้าร้าน](https://github.com/Jtarathep/KongKlang-Inventory-POS)
 
-### 📦 [KongKlang — Inventory & POS](https://github.com/Jtarathep/KongKlang-Inventory-POS)
-An academic inventory and point-of-sale project covering multiple stores, stock receipts, sales, purchasing, reporting, and store administration.
+โปรเจกต์นี้ลองเอางานหลังร้านกับหน้าร้านมาไว้ด้วยกัน ตั้งแต่รับสินค้าเข้าสต็อก ขายหน้าร้าน ไปจนถึงดูรายงานของแต่ละสาขา
 
-ระบบคลังสินค้าและจุดขายสำหรับโครงงานการศึกษา ครอบคลุมการจัดการหลายร้าน รับสินค้า ขายสินค้า จัดซื้อ รายงาน และการดูแลร้าน
+I worked on a system that brings stock and sales together, so a store can receive stock, ring up sales, and review reports for each branch.
 
-**Technologies:** Java 21 · Spring Boot 4 · Thymeleaf · MySQL-compatible storage · compiled Flutter web client
+*Java 21 · Spring Boot · Thymeleaf · MySQL-compatible database · Flutter Web*
 
-### 🏃 [Velox — Running Tracking App](https://github.com/Jtarathep/Velox-Running-App)
-A Flutter academic project for GPS route tracking, distance, duration, pace, speed, running history, and route visualization with Google Maps.
+### [Velox — แอปบันทึกการวิ่ง](https://github.com/Jtarathep/Velox-Running-App)
 
-แอปติดตามการวิ่งที่พัฒนาเป็นโครงงานการศึกษา แสดงเส้นทาง GPS ระยะทาง เวลา เพซ ความเร็ว และประวัติการวิ่ง พร้อมแผนที่ Google Maps
+แอปนี้ใช้ GPS บันทึกเส้นทางวิ่ง พอวิ่งเสร็จก็กลับมาดูได้ว่าวิ่งไปไกลแค่ไหน ใช้เวลาเท่าไร และเพซเป็นยังไง
 
-**Technologies:** Flutter · Dart · Google Maps · Geolocator · Supabase · SQLite · fl_chart
+Velox records your route with GPS and lets you look back at the map, distance, time, and pace after a run.
 
-### 🛍️ [Weekend — Clothing E-commerce Website](https://github.com/Jtarathep/Weekend-Ecommerce)
-An academic clothing storefront project with customer-facing pages for products, accounts, orders, payment, and shipping, plus an administration page.
+*Flutter · Dart · Google Maps · Supabase · SQLite*
 
-โครงงานเว็บไซต์ร้านเสื้อผ้า มีหน้าแสดงสินค้า บัญชีผู้ใช้ คำสั่งซื้อ การชำระเงิน การจัดส่ง และหน้าผู้ดูแลระบบ
+### [Weekend — เว็บร้านเสื้อผ้า](https://github.com/Jtarathep/Weekend-Ecommerce)
 
-**Repository:** HTML pages; the project README also lists CSS, JavaScript, PHP, SQL, and MySQL.  
-**ข้อมูลในคลัง:** ไฟล์หน้าเว็บ HTML โดย README ของโครงงานระบุ CSS, JavaScript, PHP, SQL และ MySQL เพิ่มเติม
+ผมลองทำหน้าเว็บร้านเสื้อผ้าให้เห็นว่าลูกค้าจะเจออะไรบ้าง ตั้งแต่เลือกดูสินค้าไปจนถึงหน้าชำระเงินและติดตามคำสั่งซื้อ มีหน้าผู้ดูแลร้านด้วยครับ
 
-### 🖥️ [JIB AI — PC Build Recommendation Prototype](https://github.com/Jtarathep/JIB-AI-Recommendation)
-A group-developed prototype using JIB as a case study. It generates PC builds from budget and requirements, checks supported component compatibility, and ranks recommendations with an ML model.
+I used this project to try out what an online clothing shop might look like, from browsing products to checkout and order tracking. The repo has the HTML pages, including an admin page.
 
-ต้นแบบที่พัฒนาเป็นงานกลุ่มโดยใช้ JIB เป็นกรณีศึกษา สร้างชุดคอมพิวเตอร์ตามงบประมาณและความต้องการ ตรวจสอบความเข้ากันได้ของอุปกรณ์ตามข้อมูลที่รองรับ และจัดอันดับคำแนะนำด้วยโมเดล ML
+### [JIB AI — ต้นแบบช่วยจัดสเปกคอม](https://github.com/Jtarathep/JIB-AI-Recommendation)
 
-**Technologies:** Python · Streamlit · XGBRegressor  
-**Scope / ขอบเขต:** Prepared prototype data and rule-generated training labels; not real JIB customer transactions or behavior. ใช้ข้อมูลสำหรับต้นแบบและป้ายกำกับฝึกโมเดลที่สร้างจากกฎ ไม่ใช่ข้อมูลธุรกรรมหรือพฤติกรรมลูกค้า JIB จริง
+งานกลุ่มนี้ใช้ JIB เป็นกรณีศึกษา ลองให้ผู้ใช้บอกงบและว่าจะเอาคอมไปทำอะไร แล้วให้ระบบจับคู่ชิ้นส่วนที่ใช้ด้วยกันได้และจัดอันดับชุดที่เหมาะกับโจทย์ ทีมเตรียมข้อมูลขึ้นมาสำหรับทดลองต้นแบบนี้
 
-### ☕ [Coffee Time — Coffee Shop Website](https://github.com/Jtarathep/coffee-time)
-A collaborative React website presenting a coffee shop and six drinks, with responsive styling and a simulated order confirmation.
+For this group project, we used JIB as a case study. Give the prototype a budget and tell it what you’ll use the PC for, and it suggests ranked builds after checking whether the parts fit together. We used a dataset prepared for the prototype.
 
-เว็บไซต์ร้านกาแฟที่พัฒนาร่วมกัน แสดงข้อมูลร้านและเครื่องดื่ม 6 รายการ รองรับหน้าจอหลายขนาด และจำลองข้อความยืนยันการสั่งซื้อ
+*Python · Streamlit · XGBoost*
 
-**Technologies:** React · Vite · JavaScript · CSS  
-**Scope / ขอบเขต:** Frontend demonstration; no cart, database, payment processing, or real order storage. เป็นการสาธิตส่วนหน้า ยังไม่มีตะกร้า ฐานข้อมูล ระบบชำระเงิน หรือการบันทึกคำสั่งซื้อจริง
+### [Coffee Time — เว็บร้านกาแฟ](https://github.com/Jtarathep/coffee-time)
 
-## Technologies Across These Projects · เทคโนโลยีในผลงาน
+เว็บร้านกาแฟที่ทำร่วมกัน มีเมนูเครื่องดื่ม 6 รายการให้เลือกดูบนมือถือหรือคอม ลองกดสั่งได้เพื่อดูว่าหน้ายืนยันจะแสดงยังไง
 
-| Area / ด้าน | Technologies / เทคโนโลยี |
-| --- | --- |
-| Web interfaces / ส่วนติดต่อเว็บ | HTML, CSS, JavaScript, React, Vite, Thymeleaf |
-| Backend / ระบบเบื้องหลัง | Java, Spring Boot |
-| Mobile / แอปมือถือ | Dart, Flutter, Google Maps, Geolocator |
-| Data / ข้อมูล | MySQL-compatible storage, Supabase, SQLite |
-| AI prototype / ต้นแบบ AI | Python, Streamlit, XGBRegressor |
+We built this site to show a coffee shop’s six drinks on phones and desktops. The order button lets you try a mock confirmation.
 
-## What's Next · ผลงานในอนาคต
+*React · Vite · JavaScript · CSS*
 
-With one semester remaining, there is room here for new coursework and a possible larger project. I'll add details and repository links when the work is ready to share.
+## งานถัดไป · What’s next
 
-ในอีก 1 ภาคการศึกษาที่เหลือ อาจมีโครงงานใหม่หรือโปรเจกต์ขนาดใหญ่เพิ่มเติม ผมจะเพิ่มรายละเอียดและลิงก์ผลงานในพื้นที่นี้เมื่อพร้อมเผยแพร่
+ถ้ามีโปรเจกต์ใหม่จากเทอมสุดท้าย ผมจะเอามาเพิ่มตรงนี้เมื่อพร้อมแชร์ครับ
 
-<!-- Future project: add a repository link, concise EN/TH description, verified technologies, and project status here. -->
+I’ll add any new projects from my last semester here when they’re ready to share.
 
----
-
-[Explore all repositories · ดูผลงานทั้งหมด](https://github.com/Jtarathep?tab=repositories)
+[ดูโปรเจกต์ทั้งหมด · Browse my repositories](https://github.com/Jtarathep?tab=repositories)
