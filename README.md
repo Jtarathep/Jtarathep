@@ -44,6 +44,14 @@ We built this site to show a coffee shop’s six drinks on phones and desktops. 
 
 *React · Vite · JavaScript · CSS*
 
+### ProjectERP — ระบบจัดการงานซื้อขายและสต็อก
+
+งานกลุ่มที่ผมทำกับเพื่อนที่มหาวิทยาลัย เราลองทำเว็บที่ช่วยให้ร้านดูแลงานซื้อขายกับสต็อกได้ในที่เดียว ตั้งแต่เปิดใบสั่งซื้อ รับสินค้าเข้าสต็อก ไปจนถึงออกใบเสนอราคา รับออเดอร์ และทำใบส่งสินค้า
+
+I worked on ProjectERP with classmates at university. We built a web app that brings purchasing, sales, and stock together, from creating purchase orders and receiving goods to sending quotes, taking orders, and preparing deliveries.
+
+*PHP · AdminLTE*
+
 ## งานถัดไป · What’s next
 
 ถ้ามีโปรเจกต์ใหม่จากเทอมสุดท้าย ผมจะเอามาเพิ่มตรงนี้เมื่อพร้อมแชร์ครับ
