@@ -10,7 +10,7 @@ Hi, I’m **Tarathep Punyakong**. I’m a student with one semester left. Here a
 
 โปรเจกต์นี้ลองเอางานหลังร้านกับหน้าร้านมาไว้ด้วยกัน ตั้งแต่รับสินค้าเข้าสต็อก ขายหน้าร้าน ไปจนถึงดูรายงานของแต่ละสาขา
 
-I worked on a system that brings stock and sales together, so a store can receive stock, ring up sales, and review reports for each branch.
+KongKlang brings stock and sales together so a store can receive goods, ring up sales, and review reports for each branch.
 
 *Java 21 · Spring Boot · Thymeleaf · MySQL-compatible database · Flutter Web*
 
@@ -24,33 +24,33 @@ Velox records your route with GPS and lets you look back at the map, distance, t
 
 ### [Weekend — เว็บร้านเสื้อผ้า](https://github.com/Jtarathep/Weekend-Ecommerce)
 
-ผมลองทำหน้าเว็บร้านเสื้อผ้าให้เห็นว่าลูกค้าจะเจออะไรบ้าง ตั้งแต่เลือกดูสินค้าไปจนถึงหน้าชำระเงินและติดตามคำสั่งซื้อ มีหน้าผู้ดูแลร้านด้วยครับ
+เว็บตัวอย่างร้านเสื้อผ้า มีหน้าให้เลือกดูสินค้า ชำระเงิน และติดตามคำสั่งซื้อ พร้อมหน้าสำหรับผู้ดูแลร้าน
 
-I used this project to try out what an online clothing shop might look like, from browsing products to checkout and order tracking. The repo has the HTML pages, including an admin page.
+An online clothing store concept with HTML pages for browsing products, checking out, tracking orders, and managing the store.
 
 ### [JIB AI — ต้นแบบช่วยจัดสเปกคอม](https://github.com/Jtarathep/JIB-AI-Recommendation)
 
-งานกลุ่มนี้ใช้ JIB เป็นกรณีศึกษา ลองให้ผู้ใช้บอกงบและว่าจะเอาคอมไปทำอะไร แล้วให้ระบบจับคู่ชิ้นส่วนที่ใช้ด้วยกันได้และจัดอันดับชุดที่เหมาะกับโจทย์ ทีมเตรียมข้อมูลขึ้นมาสำหรับทดลองต้นแบบนี้
+ต้นแบบช่วยจัดสเปกคอมโดยใช้ JIB เป็นกรณีศึกษา บอกงบกับลักษณะการใช้งาน แล้วระบบจะเช็กว่าชิ้นส่วนใช้ด้วยกันได้ไหม ก่อนจัดอันดับชุดที่เหมาะกับโจทย์ ข้อมูลที่ใช้เตรียมขึ้นสำหรับทดลองต้นแบบ
 
-For this group project, we used JIB as a case study. Give the prototype a budget and tell it what you’ll use the PC for, and it suggests ranked builds after checking whether the parts fit together. We used a dataset prepared for the prototype.
+A PC build recommender that uses JIB as a case study. Enter a budget and what you’ll use the PC for, and it suggests ranked builds after checking whether the parts fit together. It uses a dataset prepared for the prototype.
 
 *Python · Streamlit · XGBoost*
 
 ### [Coffee Time — เว็บร้านกาแฟ](https://github.com/Jtarathep/coffee-time)
 
-เว็บร้านกาแฟที่ทำร่วมกัน มีเมนูเครื่องดื่ม 6 รายการให้เลือกดูบนมือถือหรือคอม ลองกดสั่งได้เพื่อดูว่าหน้ายืนยันจะแสดงยังไง
+เว็บแนะนำร้านกาแฟที่มีเมนูเครื่องดื่ม 6 รายการ เปิดดูได้ทั้งบนมือถือและคอม ปุ่มสั่งซื้อใช้ลองดูข้อความยืนยันการสั่งซื้อ
 
-We built this site to show a coffee shop’s six drinks on phones and desktops. The order button lets you try a mock confirmation.
+A coffee shop website with six drinks to browse on a phone or desktop. The order button shows a mock confirmation.
 
 *React · Vite · JavaScript · CSS*
 
-### ProjectERP — ระบบจัดการงานซื้อขายและสต็อก
+### [ProjectERP — ระบบจัดการงานซื้อขาย สต็อก และบัญชี](https://github.com/Jtarathep/ProjectERP)
 
-งานกลุ่มที่ผมทำกับเพื่อนที่มหาวิทยาลัย เราลองทำเว็บที่ช่วยให้ร้านดูแลงานซื้อขายกับสต็อกได้ในที่เดียว ตั้งแต่เปิดใบสั่งซื้อ รับสินค้าเข้าสต็อก ไปจนถึงออกใบเสนอราคา รับออเดอร์ และทำใบส่งสินค้า
+เว็บที่รวมงานจัดซื้อ ขาย สต็อก และบัญชีไว้ในที่เดียว ใช้เปิดใบสั่งซื้อ รับสินค้าเข้าสต็อก ออกใบเสนอราคา และทำใบส่งสินค้าได้
 
-I worked on ProjectERP with classmates at university. We built a web app that brings purchasing, sales, and stock together, from creating purchase orders and receiving goods to sending quotes, taking orders, and preparing deliveries.
+A web app for purchasing, sales, inventory, and accounting. It covers purchase orders, receiving goods, preparing quotes, recording sales orders, and issuing delivery notes.
 
-*PHP · AdminLTE*
+*PHP · MariaDB · AdminLTE*
 
 ## งานถัดไป · What’s next
 
